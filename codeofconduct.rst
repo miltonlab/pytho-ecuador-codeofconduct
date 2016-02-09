@@ -25,4 +25,4 @@ En general, nos relacionamos bien con cada uno. Contribuimos a esta comunidad no
 **Nota**
 
 
-Este documento fue aprobado a través de correo electrónico por los miembros de la Comunidad Python Ecuador durante la votación que concluyó el 28 de Diciembre 2016. La versión canónica de este texto reside en https://github.com/miltonlab/python-ecuador-codeofconduct
+Este documento fue aprobado a través de correo electrónico por los miembros de la Comunidad Python Ecuador durante la votación que concluyó el 28 de Diciembre 2015. La versión canónica de este texto reside en https://github.com/miltonlab/python-ecuador-codeofconduct
